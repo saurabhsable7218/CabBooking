@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Canti</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_mobile_no">Enter Mobile No.</string>
+    <string name="from_place">From Place</string>
+    <string name="to_place">To Place</string>
+    <string name="submit">Submit</string>
+    <string name="enter_date">Enter Date</string>
+    <string name="enter_time">Enter Time</string>
+    <string name="todo">TODO</string>
+    <string name="already_registered_sign_in">Already Registered ? Sign in</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="todo1">TODO</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="sign_in">Sign in</string>
+    <string name="not_registered_yet_sign_up">Not Registered Yet? Sign Up</string>
+    <string name="log_out">Log Out</string>
+</resources>

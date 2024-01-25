@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "14957415784",
+    "project_id": "canti-c6726",
+    "storage_bucket": "canti-c6726.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14957415784:android:ff2dd377dbf71b0b9b9add",
+        "android_client_info": {
+          "package_name": "com.safe.canti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "14957415784-9g09kobeqscqbu1tdbir9unh36drr2k6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUsNdzJawPevKSxVbAXdQdpGk8lzc-b2g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "14957415784-9g09kobeqscqbu1tdbir9unh36drr2k6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
